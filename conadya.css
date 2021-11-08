@@ -1,0 +1,30 @@
+body {
+    max-width: 1000px; 
+    border: 1px solid black; 
+    margin: auto; 
+    background-color: beige;"
+}
+header {
+    background-color: burlywood; 
+    border-bottom: 1px solid black;
+}
+footer {
+    margin-top: 50px; 
+    border-top: 1px solid black; 
+    background-color:burlywood ; 
+    padding: 10px; 
+    display: grid; 
+    gap: 10px;
+}
+font {
+    font-size: small;
+}
+hr {
+    border: 1px double;
+    align: "left"; 
+    color: black; 
+}
+.linkFooter {
+    text-decoration: none; 
+    margin-right: 5px;
+}
