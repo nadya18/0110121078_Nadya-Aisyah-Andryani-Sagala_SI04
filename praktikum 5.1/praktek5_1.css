@@ -1,0 +1,51 @@
+.header {
+    background-color: darkcyan;
+    height: 50px;
+    padding: 50px 5px;
+    margin-bottom: 30px;
+    padding-top: 1px;
+}
+
+h2 {
+    text-align: center;
+    margin: 12px;
+}
+
+.http {
+    background-color: whitesmoke;
+    border: 1px solid black;
+    width: 850px;
+    padding-left: 7px;
+}
+
+.atas {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.kotak {
+    border: 1px solid black;
+    width: 200px;
+    height: 470px;
+}
+
+.yellow {
+    background-color: darkslateblue;
+}
+
+.green {
+    background-color: darkslategray;
+}
+
+.orange {
+    background-color: dimgrey;
+}
+
+.blue {
+    background-color: lightslategray;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
